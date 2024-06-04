@@ -1,0 +1,76 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: µVision V5.38.0.0
+Copyright (C) 2022 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: a b , ada, LIC=65ISZ-J3BG1-RAVDM-XPM4W-0VQYC-FC1JY
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Plus  Version: 5.38.0.0
+Toolchain Path:  E:\keilc v5\core\ARM\Arm5\Bin
+C Compiler:      Armcc.exe V5.06 update 7 (build 960)
+Assembler:       Armasm.exe V5.06 update 7 (build 960)
+Linker/Locator:  ArmLink.exe V5.06 update 7 (build 960)
+Library Manager: ArmAr.exe V5.06 update 7 (build 960)
+Hex Converter:   FromElf.exe V5.06 update 7 (build 960)
+CPU DLL:         SARMCM3.DLL V5.38.0.0
+Dialog DLL:      DCM.DLL V1.17.5.0
+Target DLL:      STLink\ST-LINKIII-KEIL_SWO.dll V3.1.0.0
+Dialog DLL:      TCM.DLL V1.56.4.0
+ 
+<h2>Project:</h2>
+E:\20232 - datn\FOTA\Receive_From_A7680C_9_sector_7\MDK-ARM\Receive_From_A7680C.uvprojx
+Project File Date:  05/29/2024
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 7 (build 960)', folder: 'E:\keilc v5\core\ARM\Arm5\Bin'
+Build target 'Receive_From_A7680C'
+compiling task_LTE.c...
+../Core/Inc/flash.h(19): warning:  #1-D: last line of file ends without a newline
+  #endif
+../Core/Inc/TaskProcessFirmware.h(83): warning:  #1295-D: Deprecated declaration ClearBuffer - give arg types
+  extern void ClearBuffer();
+../Core/Inc/TaskProcessFirmware.h(91): warning:  #1-D: last line of file ends without a newline
+  #endif
+../Core/Inc/task_LTE.h(27): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\Core\Src\task_LTE.c(39): warning:  #177-D: variable "tmpPtr"  was declared but never referenced
+    char* tmpPtr = dynamicCommand;
+..\Core\Src\task_LTE.c(211): warning:  #177-D: variable "isATCommand"  was declared but never referenced
+    int isATCommand = 0; // loai bo du thua sau OK
+..\Core\Src\task_LTE.c(212): warning:  #177-D: variable "processFirstLine"  was declared but never referenced
+    int processFirstLine = 0; // loai bo dong dau
+..\Core\Src\task_LTE.c: 7 warnings, 0 errors
+linking...
+Program Size: Code=17636 RO-data=948 RW-data=200 ZI-data=25360  
+FromELF: creating hex file...
+"Receive_From_A7680C\Receive_From_A7680C.axf" - 0 Error(s), 7 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: ARM
+                http://www.keil.com/pack/ARM.CMSIS.5.9.0.pack
+                ARM.CMSIS.5.9.0
+                CMSIS (Common Microcontroller Software Interface Standard)
+   * Component: CORE Version: 5.6.0
+
+Package Vendor: Keil
+                https://www.keil.com/pack/Keil.STM32F4xx_DFP.2.17.1.pack
+                Keil.STM32F4xx_DFP.2.17.1
+                STMicroelectronics STM32F4 Series Device Support, Drivers and Examples
+
+<h2>Collection of Component include folders:</h2>
+  ./RTE/_Receive_From_A7680C
+  E:/keilc v5/pack/ARM/CMSIS/5.9.0/CMSIS/Core/Include
+  E:/keilc v5/pack/Keil/STM32F4xx_DFP/2.17.1/Drivers/CMSIS/Device/ST/STM32F4xx/Include
+
+<h2>Collection of Component Files used:</h2>
+
+   * Component: ARM::CMSIS:CORE:5.6.0
+      Include file:  CMSIS/Core/Include/tz_context.h
+Build Time Elapsed:  00:00:02
+</pre>
+</body>
+</html>

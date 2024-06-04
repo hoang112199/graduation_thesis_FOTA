@@ -257,7 +257,7 @@ void StartDefaultTask(void const * argument)
   /* Infinite loop */
   for(;;)
   {
-	uint8_t tx_data_1[28]="Start processing firmware\r\n";
+	uint8_t tx_data_1[28]="Ver 0.0.0\r\n";
 	HAL_UART_Transmit(&huart6,tx_data_1, sizeof(tx_data_1), 100);
     osDelay(2000);
   }
@@ -277,7 +277,7 @@ void StartTask02(void const * argument)
   /* Infinite loop */
   for(;;)
   {
-	uint8_t tx_data_2[24] = "Erase old flash done!\r\n";
+	uint8_t tx_data_2[24] = "Run success\r\n";
 	HAL_UART_Transmit(&huart6,tx_data_2, sizeof(tx_data_2), 100);
     osDelay(1000);
   }

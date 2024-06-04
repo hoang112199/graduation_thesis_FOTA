@@ -152,264 +152,24 @@
         <Bp>
           <Number>0</Number>
           <Type>0</Type>
-          <LineNumber>365</LineNumber>
-          <EnabledFlag>0</EnabledFlag>
-          <Address>134225154</Address>
+          <LineNumber>342</LineNumber>
+          <EnabledFlag>1</EnabledFlag>
+          <Address>134226786</Address>
           <ByteObject>0</ByteObject>
           <HtxType>0</HtxType>
           <ManyObjects>0</ManyObjects>
           <SizeOfObject>0</SizeOfObject>
           <BreakByAccess>0</BreakByAccess>
           <BreakIfRCount>1</BreakIfRCount>
-          <Filename>../Core/Src/main.c</Filename>
+          <Filename>E:\20232 - datn\FOTA\ProcessFirmwareF407\Core\Src\TaskProcessFirmware.c</Filename>
           <ExecCommand></ExecCommand>
-          <Expression>\\ProcessFirmwareF407\../Core/Src/main.c\365</Expression>
+          <Expression>\\ProcessFirmwareF407\../Core/Src/TaskProcessFirmware.c\342</Expression>
         </Bp>
         <Bp>
           <Number>1</Number>
           <Type>0</Type>
-          <LineNumber>363</LineNumber>
-          <EnabledFlag>0</EnabledFlag>
-          <Address>134225142</Address>
-          <ByteObject>0</ByteObject>
-          <HtxType>0</HtxType>
-          <ManyObjects>0</ManyObjects>
-          <SizeOfObject>0</SizeOfObject>
-          <BreakByAccess>0</BreakByAccess>
-          <BreakIfRCount>1</BreakIfRCount>
-          <Filename>../Core/Src/main.c</Filename>
-          <ExecCommand></ExecCommand>
-          <Expression>\\ProcessFirmwareF407\../Core/Src/main.c\363</Expression>
-        </Bp>
-        <Bp>
-          <Number>2</Number>
-          <Type>0</Type>
-          <LineNumber>357</LineNumber>
-          <EnabledFlag>0</EnabledFlag>
-          <Address>134225176</Address>
-          <ByteObject>0</ByteObject>
-          <HtxType>0</HtxType>
-          <ManyObjects>0</ManyObjects>
-          <SizeOfObject>0</SizeOfObject>
-          <BreakByAccess>0</BreakByAccess>
-          <BreakIfRCount>1</BreakIfRCount>
-          <Filename>../Core/Src/main.c</Filename>
-          <ExecCommand></ExecCommand>
-          <Expression>\\ProcessFirmwareF407\../Core/Src/main.c\357</Expression>
-        </Bp>
-        <Bp>
-          <Number>3</Number>
-          <Type>0</Type>
-          <LineNumber>355</LineNumber>
-          <EnabledFlag>0</EnabledFlag>
-          <Address>134225118</Address>
-          <ByteObject>0</ByteObject>
-          <HtxType>0</HtxType>
-          <ManyObjects>0</ManyObjects>
-          <SizeOfObject>0</SizeOfObject>
-          <BreakByAccess>0</BreakByAccess>
-          <BreakIfRCount>1</BreakIfRCount>
-          <Filename>../Core/Src/main.c</Filename>
-          <ExecCommand></ExecCommand>
-          <Expression>\\ProcessFirmwareF407\../Core/Src/main.c\355</Expression>
-        </Bp>
-        <Bp>
-          <Number>4</Number>
-          <Type>0</Type>
-          <LineNumber>353</LineNumber>
-          <EnabledFlag>0</EnabledFlag>
-          <Address>134225098</Address>
-          <ByteObject>0</ByteObject>
-          <HtxType>0</HtxType>
-          <ManyObjects>0</ManyObjects>
-          <SizeOfObject>0</SizeOfObject>
-          <BreakByAccess>0</BreakByAccess>
-          <BreakIfRCount>1</BreakIfRCount>
-          <Filename>../Core/Src/main.c</Filename>
-          <ExecCommand></ExecCommand>
-          <Expression>\\ProcessFirmwareF407\../Core/Src/main.c\353</Expression>
-        </Bp>
-        <Bp>
-          <Number>5</Number>
-          <Type>0</Type>
-          <LineNumber>346</LineNumber>
-          <EnabledFlag>0</EnabledFlag>
-          <Address>134225066</Address>
-          <ByteObject>0</ByteObject>
-          <HtxType>0</HtxType>
-          <ManyObjects>0</ManyObjects>
-          <SizeOfObject>0</SizeOfObject>
-          <BreakByAccess>0</BreakByAccess>
-          <BreakIfRCount>1</BreakIfRCount>
-          <Filename>../Core/Src/main.c</Filename>
-          <ExecCommand></ExecCommand>
-          <Expression>\\ProcessFirmwareF407\../Core/Src/main.c\346</Expression>
-        </Bp>
-        <Bp>
-          <Number>6</Number>
-          <Type>0</Type>
-          <LineNumber>345</LineNumber>
-          <EnabledFlag>0</EnabledFlag>
-          <Address>134225064</Address>
-          <ByteObject>0</ByteObject>
-          <HtxType>0</HtxType>
-          <ManyObjects>0</ManyObjects>
-          <SizeOfObject>0</SizeOfObject>
-          <BreakByAccess>0</BreakByAccess>
-          <BreakIfRCount>1</BreakIfRCount>
-          <Filename>../Core/Src/main.c</Filename>
-          <ExecCommand></ExecCommand>
-          <Expression>\\ProcessFirmwareF407\../Core/Src/main.c\345</Expression>
-        </Bp>
-        <Bp>
-          <Number>7</Number>
-          <Type>0</Type>
-          <LineNumber>362</LineNumber>
-          <EnabledFlag>0</EnabledFlag>
-          <Address>134225126</Address>
-          <ByteObject>0</ByteObject>
-          <HtxType>0</HtxType>
-          <ManyObjects>0</ManyObjects>
-          <SizeOfObject>0</SizeOfObject>
-          <BreakByAccess>0</BreakByAccess>
-          <BreakIfRCount>1</BreakIfRCount>
-          <Filename>../Core/Src/main.c</Filename>
-          <ExecCommand></ExecCommand>
-          <Expression>\\\../Core/Src/main.c\362</Expression>
-        </Bp>
-        <Bp>
-          <Number>8</Number>
-          <Type>0</Type>
-          <LineNumber>354</LineNumber>
-          <EnabledFlag>0</EnabledFlag>
-          <Address>134225106</Address>
-          <ByteObject>0</ByteObject>
-          <HtxType>0</HtxType>
-          <ManyObjects>0</ManyObjects>
-          <SizeOfObject>0</SizeOfObject>
-          <BreakByAccess>0</BreakByAccess>
-          <BreakIfRCount>1</BreakIfRCount>
-          <Filename>../Core/Src/main.c</Filename>
-          <ExecCommand></ExecCommand>
-          <Expression>\\ProcessFirmwareF407\../Core/Src/main.c\354</Expression>
-        </Bp>
-        <Bp>
-          <Number>9</Number>
-          <Type>0</Type>
-          <LineNumber>350</LineNumber>
-          <EnabledFlag>0</EnabledFlag>
-          <Address>134225076</Address>
-          <ByteObject>0</ByteObject>
-          <HtxType>0</HtxType>
-          <ManyObjects>0</ManyObjects>
-          <SizeOfObject>0</SizeOfObject>
-          <BreakByAccess>0</BreakByAccess>
-          <BreakIfRCount>1</BreakIfRCount>
-          <Filename>../Core/Src/main.c</Filename>
-          <ExecCommand></ExecCommand>
-          <Expression>\\ProcessFirmwareF407\../Core/Src/main.c\350</Expression>
-        </Bp>
-        <Bp>
-          <Number>10</Number>
-          <Type>0</Type>
-          <LineNumber>351</LineNumber>
-          <EnabledFlag>0</EnabledFlag>
-          <Address>134225094</Address>
-          <ByteObject>0</ByteObject>
-          <HtxType>0</HtxType>
-          <ManyObjects>0</ManyObjects>
-          <SizeOfObject>0</SizeOfObject>
-          <BreakByAccess>0</BreakByAccess>
-          <BreakIfRCount>1</BreakIfRCount>
-          <Filename>../Core/Src/main.c</Filename>
-          <ExecCommand></ExecCommand>
-          <Expression>\\ProcessFirmwareF407\../Core/Src/main.c\351</Expression>
-        </Bp>
-        <Bp>
-          <Number>11</Number>
-          <Type>0</Type>
-          <LineNumber>359</LineNumber>
-          <EnabledFlag>0</EnabledFlag>
-          <Address>134225180</Address>
-          <ByteObject>0</ByteObject>
-          <HtxType>0</HtxType>
-          <ManyObjects>0</ManyObjects>
-          <SizeOfObject>0</SizeOfObject>
-          <BreakByAccess>0</BreakByAccess>
-          <BreakIfRCount>1</BreakIfRCount>
-          <Filename>../Core/Src/main.c</Filename>
-          <ExecCommand></ExecCommand>
-          <Expression>\\\../Core/Src/main.c\359</Expression>
-        </Bp>
-        <Bp>
-          <Number>12</Number>
-          <Type>0</Type>
-          <LineNumber>328</LineNumber>
-          <EnabledFlag>0</EnabledFlag>
-          <Address>134226772</Address>
-          <ByteObject>0</ByteObject>
-          <HtxType>0</HtxType>
-          <ManyObjects>0</ManyObjects>
-          <SizeOfObject>0</SizeOfObject>
-          <BreakByAccess>0</BreakByAccess>
-          <BreakIfRCount>1</BreakIfRCount>
-          <Filename>..\Core\Src\TaskProcessFirmware.c</Filename>
-          <ExecCommand></ExecCommand>
-          <Expression>\\ProcessFirmwareF407\../Core/Src/TaskProcessFirmware.c\328</Expression>
-        </Bp>
-        <Bp>
-          <Number>13</Number>
-          <Type>0</Type>
-          <LineNumber>303</LineNumber>
-          <EnabledFlag>0</EnabledFlag>
-          <Address>134226706</Address>
-          <ByteObject>0</ByteObject>
-          <HtxType>0</HtxType>
-          <ManyObjects>0</ManyObjects>
-          <SizeOfObject>0</SizeOfObject>
-          <BreakByAccess>0</BreakByAccess>
-          <BreakIfRCount>1</BreakIfRCount>
-          <Filename>..\Core\Src\TaskProcessFirmware.c</Filename>
-          <ExecCommand></ExecCommand>
-          <Expression>\\ProcessFirmwareF407\../Core/Src/TaskProcessFirmware.c\303</Expression>
-        </Bp>
-        <Bp>
-          <Number>14</Number>
-          <Type>0</Type>
-          <LineNumber>189</LineNumber>
-          <EnabledFlag>0</EnabledFlag>
-          <Address>134218498</Address>
-          <ByteObject>0</ByteObject>
-          <HtxType>0</HtxType>
-          <ManyObjects>0</ManyObjects>
-          <SizeOfObject>0</SizeOfObject>
-          <BreakByAccess>0</BreakByAccess>
-          <BreakIfRCount>1</BreakIfRCount>
-          <Filename>startup_stm32f407xx.s</Filename>
-          <ExecCommand></ExecCommand>
-          <Expression>\\ProcessFirmwareF407\startup_stm32f407xx.s\189</Expression>
-        </Bp>
-        <Bp>
-          <Number>15</Number>
-          <Type>0</Type>
-          <LineNumber>298</LineNumber>
-          <EnabledFlag>0</EnabledFlag>
-          <Address>134226682</Address>
-          <ByteObject>0</ByteObject>
-          <HtxType>0</HtxType>
-          <ManyObjects>0</ManyObjects>
-          <SizeOfObject>0</SizeOfObject>
-          <BreakByAccess>0</BreakByAccess>
-          <BreakIfRCount>1</BreakIfRCount>
-          <Filename>..\Core\Src\TaskProcessFirmware.c</Filename>
-          <ExecCommand></ExecCommand>
-          <Expression>\\ProcessFirmwareF407\../Core/Src/TaskProcessFirmware.c\298</Expression>
-        </Bp>
-        <Bp>
-          <Number>16</Number>
-          <Type>0</Type>
           <LineNumber>294</LineNumber>
-          <EnabledFlag>0</EnabledFlag>
+          <EnabledFlag>1</EnabledFlag>
           <Address>134226666</Address>
           <ByteObject>0</ByteObject>
           <HtxType>0</HtxType>
@@ -417,31 +177,47 @@
           <SizeOfObject>0</SizeOfObject>
           <BreakByAccess>0</BreakByAccess>
           <BreakIfRCount>1</BreakIfRCount>
-          <Filename>..\Core\Src\TaskProcessFirmware.c</Filename>
+          <Filename>E:\20232 - datn\FOTA\ProcessFirmwareF407\Core\Src\TaskProcessFirmware.c</Filename>
           <ExecCommand></ExecCommand>
           <Expression>\\ProcessFirmwareF407\../Core/Src/TaskProcessFirmware.c\294</Expression>
         </Bp>
         <Bp>
-          <Number>17</Number>
+          <Number>2</Number>
           <Type>0</Type>
-          <LineNumber>210</LineNumber>
-          <EnabledFlag>0</EnabledFlag>
-          <Address>134226832</Address>
+          <LineNumber>334</LineNumber>
+          <EnabledFlag>1</EnabledFlag>
+          <Address>134226768</Address>
           <ByteObject>0</ByteObject>
           <HtxType>0</HtxType>
           <ManyObjects>0</ManyObjects>
           <SizeOfObject>0</SizeOfObject>
           <BreakByAccess>0</BreakByAccess>
           <BreakIfRCount>1</BreakIfRCount>
-          <Filename>..\Core\Src\TaskProcessFirmware.c</Filename>
+          <Filename>E:\20232 - datn\FOTA\ProcessFirmwareF407\Core\Src\TaskProcessFirmware.c</Filename>
           <ExecCommand></ExecCommand>
-          <Expression>\\ProcessFirmwareF407\../Core/Src/TaskProcessFirmware.c\210</Expression>
+          <Expression>\\ProcessFirmwareF407\../Core/Src/TaskProcessFirmware.c\334</Expression>
         </Bp>
         <Bp>
-          <Number>18</Number>
+          <Number>3</Number>
+          <Type>0</Type>
+          <LineNumber>148</LineNumber>
+          <EnabledFlag>1</EnabledFlag>
+          <Address>134219876</Address>
+          <ByteObject>0</ByteObject>
+          <HtxType>0</HtxType>
+          <ManyObjects>0</ManyObjects>
+          <SizeOfObject>0</SizeOfObject>
+          <BreakByAccess>0</BreakByAccess>
+          <BreakIfRCount>1</BreakIfRCount>
+          <Filename>E:\20232 - datn\FOTA\ProcessFirmwareF407\Core\Src\TaskProcessFirmware.c</Filename>
+          <ExecCommand></ExecCommand>
+          <Expression>\\ProcessFirmwareF407\../Core/Src/TaskProcessFirmware.c\148</Expression>
+        </Bp>
+        <Bp>
+          <Number>4</Number>
           <Type>0</Type>
           <LineNumber>53</LineNumber>
-          <EnabledFlag>0</EnabledFlag>
+          <EnabledFlag>1</EnabledFlag>
           <Address>134219778</Address>
           <ByteObject>0</ByteObject>
           <HtxType>0</HtxType>
@@ -449,62 +225,14 @@
           <SizeOfObject>0</SizeOfObject>
           <BreakByAccess>0</BreakByAccess>
           <BreakIfRCount>1</BreakIfRCount>
-          <Filename>..\Core\Src\TaskProcessFirmware.c</Filename>
+          <Filename>E:\20232 - datn\FOTA\ProcessFirmwareF407\Core\Src\TaskProcessFirmware.c</Filename>
           <ExecCommand></ExecCommand>
           <Expression>\\ProcessFirmwareF407\../Core/Src/TaskProcessFirmware.c\53</Expression>
         </Bp>
         <Bp>
-          <Number>19</Number>
+          <Number>5</Number>
           <Type>0</Type>
-          <LineNumber>85</LineNumber>
-          <EnabledFlag>0</EnabledFlag>
-          <Address>134219966</Address>
-          <ByteObject>0</ByteObject>
-          <HtxType>0</HtxType>
-          <ManyObjects>0</ManyObjects>
-          <SizeOfObject>0</SizeOfObject>
-          <BreakByAccess>0</BreakByAccess>
-          <BreakIfRCount>1</BreakIfRCount>
-          <Filename>..\Core\Src\TaskProcessFirmware.c</Filename>
-          <ExecCommand></ExecCommand>
-          <Expression>\\ProcessFirmwareF407\../Core/Src/TaskProcessFirmware.c\85</Expression>
-        </Bp>
-        <Bp>
-          <Number>20</Number>
-          <Type>0</Type>
-          <LineNumber>104</LineNumber>
-          <EnabledFlag>0</EnabledFlag>
-          <Address>134219704</Address>
-          <ByteObject>0</ByteObject>
-          <HtxType>0</HtxType>
-          <ManyObjects>0</ManyObjects>
-          <SizeOfObject>0</SizeOfObject>
-          <BreakByAccess>0</BreakByAccess>
-          <BreakIfRCount>1</BreakIfRCount>
-          <Filename>..\Core\Src\TaskProcessFirmware.c</Filename>
-          <ExecCommand></ExecCommand>
-          <Expression>\\ProcessFirmwareF407\../Core/Src/TaskProcessFirmware.c\104</Expression>
-        </Bp>
-        <Bp>
-          <Number>21</Number>
-          <Type>0</Type>
-          <LineNumber>325</LineNumber>
-          <EnabledFlag>1</EnabledFlag>
-          <Address>0</Address>
-          <ByteObject>0</ByteObject>
-          <HtxType>0</HtxType>
-          <ManyObjects>0</ManyObjects>
-          <SizeOfObject>0</SizeOfObject>
-          <BreakByAccess>0</BreakByAccess>
-          <BreakIfRCount>0</BreakIfRCount>
-          <Filename>..\Core\Src\TaskProcessFirmware.c</Filename>
-          <ExecCommand></ExecCommand>
-          <Expression></Expression>
-        </Bp>
-        <Bp>
-          <Number>22</Number>
-          <Type>0</Type>
-          <LineNumber>230</LineNumber>
+          <LineNumber>345</LineNumber>
           <EnabledFlag>0</EnabledFlag>
           <Address>0</Address>
           <ByteObject>0</ByteObject>
@@ -513,14 +241,14 @@
           <SizeOfObject>0</SizeOfObject>
           <BreakByAccess>0</BreakByAccess>
           <BreakIfRCount>0</BreakIfRCount>
-          <Filename>..\Core\Src\TaskProcessFirmware.c</Filename>
+          <Filename>../Core/Src/main.c</Filename>
           <ExecCommand></ExecCommand>
           <Expression></Expression>
         </Bp>
         <Bp>
-          <Number>23</Number>
+          <Number>6</Number>
           <Type>0</Type>
-          <LineNumber>291</LineNumber>
+          <LineNumber>346</LineNumber>
           <EnabledFlag>0</EnabledFlag>
           <Address>0</Address>
           <ByteObject>0</ByteObject>
@@ -529,14 +257,14 @@
           <SizeOfObject>0</SizeOfObject>
           <BreakByAccess>0</BreakByAccess>
           <BreakIfRCount>0</BreakIfRCount>
-          <Filename>..\Core\Src\TaskProcessFirmware.c</Filename>
+          <Filename>../Core/Src/main.c</Filename>
           <ExecCommand></ExecCommand>
           <Expression></Expression>
         </Bp>
         <Bp>
-          <Number>24</Number>
+          <Number>7</Number>
           <Type>0</Type>
-          <LineNumber>295</LineNumber>
+          <LineNumber>350</LineNumber>
           <EnabledFlag>0</EnabledFlag>
           <Address>0</Address>
           <ByteObject>0</ByteObject>
@@ -545,14 +273,14 @@
           <SizeOfObject>0</SizeOfObject>
           <BreakByAccess>0</BreakByAccess>
           <BreakIfRCount>0</BreakIfRCount>
-          <Filename>..\Core\Src\TaskProcessFirmware.c</Filename>
+          <Filename>../Core/Src/main.c</Filename>
           <ExecCommand></ExecCommand>
           <Expression></Expression>
         </Bp>
         <Bp>
-          <Number>25</Number>
+          <Number>8</Number>
           <Type>0</Type>
-          <LineNumber>299</LineNumber>
+          <LineNumber>351</LineNumber>
           <EnabledFlag>0</EnabledFlag>
           <Address>0</Address>
           <ByteObject>0</ByteObject>
@@ -561,14 +289,14 @@
           <SizeOfObject>0</SizeOfObject>
           <BreakByAccess>0</BreakByAccess>
           <BreakIfRCount>0</BreakIfRCount>
-          <Filename>..\Core\Src\TaskProcessFirmware.c</Filename>
+          <Filename>../Core/Src/main.c</Filename>
           <ExecCommand></ExecCommand>
           <Expression></Expression>
         </Bp>
         <Bp>
-          <Number>26</Number>
+          <Number>9</Number>
           <Type>0</Type>
-          <LineNumber>302</LineNumber>
+          <LineNumber>353</LineNumber>
           <EnabledFlag>0</EnabledFlag>
           <Address>0</Address>
           <ByteObject>0</ByteObject>
@@ -577,14 +305,14 @@
           <SizeOfObject>0</SizeOfObject>
           <BreakByAccess>0</BreakByAccess>
           <BreakIfRCount>0</BreakIfRCount>
-          <Filename>..\Core\Src\TaskProcessFirmware.c</Filename>
+          <Filename>../Core/Src/main.c</Filename>
           <ExecCommand></ExecCommand>
           <Expression></Expression>
         </Bp>
         <Bp>
-          <Number>27</Number>
+          <Number>10</Number>
           <Type>0</Type>
-          <LineNumber>327</LineNumber>
+          <LineNumber>354</LineNumber>
           <EnabledFlag>0</EnabledFlag>
           <Address>0</Address>
           <ByteObject>0</ByteObject>
@@ -593,12 +321,108 @@
           <SizeOfObject>0</SizeOfObject>
           <BreakByAccess>0</BreakByAccess>
           <BreakIfRCount>0</BreakIfRCount>
-          <Filename>..\Core\Src\TaskProcessFirmware.c</Filename>
+          <Filename>../Core/Src/main.c</Filename>
           <ExecCommand></ExecCommand>
           <Expression></Expression>
         </Bp>
         <Bp>
-          <Number>28</Number>
+          <Number>11</Number>
+          <Type>0</Type>
+          <LineNumber>355</LineNumber>
+          <EnabledFlag>0</EnabledFlag>
+          <Address>0</Address>
+          <ByteObject>0</ByteObject>
+          <HtxType>0</HtxType>
+          <ManyObjects>0</ManyObjects>
+          <SizeOfObject>0</SizeOfObject>
+          <BreakByAccess>0</BreakByAccess>
+          <BreakIfRCount>0</BreakIfRCount>
+          <Filename>../Core/Src/main.c</Filename>
+          <ExecCommand></ExecCommand>
+          <Expression></Expression>
+        </Bp>
+        <Bp>
+          <Number>12</Number>
+          <Type>0</Type>
+          <LineNumber>357</LineNumber>
+          <EnabledFlag>0</EnabledFlag>
+          <Address>0</Address>
+          <ByteObject>0</ByteObject>
+          <HtxType>0</HtxType>
+          <ManyObjects>0</ManyObjects>
+          <SizeOfObject>0</SizeOfObject>
+          <BreakByAccess>0</BreakByAccess>
+          <BreakIfRCount>0</BreakIfRCount>
+          <Filename>../Core/Src/main.c</Filename>
+          <ExecCommand></ExecCommand>
+          <Expression></Expression>
+        </Bp>
+        <Bp>
+          <Number>13</Number>
+          <Type>0</Type>
+          <LineNumber>359</LineNumber>
+          <EnabledFlag>0</EnabledFlag>
+          <Address>0</Address>
+          <ByteObject>0</ByteObject>
+          <HtxType>0</HtxType>
+          <ManyObjects>0</ManyObjects>
+          <SizeOfObject>0</SizeOfObject>
+          <BreakByAccess>0</BreakByAccess>
+          <BreakIfRCount>0</BreakIfRCount>
+          <Filename>../Core/Src/main.c</Filename>
+          <ExecCommand></ExecCommand>
+          <Expression></Expression>
+        </Bp>
+        <Bp>
+          <Number>14</Number>
+          <Type>0</Type>
+          <LineNumber>362</LineNumber>
+          <EnabledFlag>0</EnabledFlag>
+          <Address>0</Address>
+          <ByteObject>0</ByteObject>
+          <HtxType>0</HtxType>
+          <ManyObjects>0</ManyObjects>
+          <SizeOfObject>0</SizeOfObject>
+          <BreakByAccess>0</BreakByAccess>
+          <BreakIfRCount>0</BreakIfRCount>
+          <Filename>../Core/Src/main.c</Filename>
+          <ExecCommand></ExecCommand>
+          <Expression></Expression>
+        </Bp>
+        <Bp>
+          <Number>15</Number>
+          <Type>0</Type>
+          <LineNumber>363</LineNumber>
+          <EnabledFlag>0</EnabledFlag>
+          <Address>0</Address>
+          <ByteObject>0</ByteObject>
+          <HtxType>0</HtxType>
+          <ManyObjects>0</ManyObjects>
+          <SizeOfObject>0</SizeOfObject>
+          <BreakByAccess>0</BreakByAccess>
+          <BreakIfRCount>0</BreakIfRCount>
+          <Filename>../Core/Src/main.c</Filename>
+          <ExecCommand></ExecCommand>
+          <Expression></Expression>
+        </Bp>
+        <Bp>
+          <Number>16</Number>
+          <Type>0</Type>
+          <LineNumber>365</LineNumber>
+          <EnabledFlag>0</EnabledFlag>
+          <Address>0</Address>
+          <ByteObject>0</ByteObject>
+          <HtxType>0</HtxType>
+          <ManyObjects>0</ManyObjects>
+          <SizeOfObject>0</SizeOfObject>
+          <BreakByAccess>0</BreakByAccess>
+          <BreakIfRCount>0</BreakIfRCount>
+          <Filename>../Core/Src/main.c</Filename>
+          <ExecCommand></ExecCommand>
+          <Expression></Expression>
+        </Bp>
+        <Bp>
+          <Number>17</Number>
           <Type>0</Type>
           <LineNumber>283</LineNumber>
           <EnabledFlag>1</EnabledFlag>
@@ -614,7 +438,7 @@
           <Expression></Expression>
         </Bp>
         <Bp>
-          <Number>29</Number>
+          <Number>18</Number>
           <Type>0</Type>
           <LineNumber>325</LineNumber>
           <EnabledFlag>1</EnabledFlag>
@@ -630,7 +454,7 @@
           <Expression></Expression>
         </Bp>
         <Bp>
-          <Number>30</Number>
+          <Number>19</Number>
           <Type>0</Type>
           <LineNumber>190</LineNumber>
           <EnabledFlag>0</EnabledFlag>
@@ -646,7 +470,7 @@
           <Expression></Expression>
         </Bp>
         <Bp>
-          <Number>31</Number>
+          <Number>20</Number>
           <Type>0</Type>
           <LineNumber>230</LineNumber>
           <EnabledFlag>0</EnabledFlag>
@@ -662,7 +486,7 @@
           <Expression></Expression>
         </Bp>
         <Bp>
-          <Number>32</Number>
+          <Number>21</Number>
           <Type>0</Type>
           <LineNumber>250</LineNumber>
           <EnabledFlag>0</EnabledFlag>
@@ -678,7 +502,7 @@
           <Expression></Expression>
         </Bp>
         <Bp>
-          <Number>33</Number>
+          <Number>22</Number>
           <Type>0</Type>
           <LineNumber>254</LineNumber>
           <EnabledFlag>0</EnabledFlag>
@@ -694,7 +518,7 @@
           <Expression></Expression>
         </Bp>
         <Bp>
-          <Number>34</Number>
+          <Number>23</Number>
           <Type>0</Type>
           <LineNumber>258</LineNumber>
           <EnabledFlag>0</EnabledFlag>
@@ -710,7 +534,7 @@
           <Expression></Expression>
         </Bp>
         <Bp>
-          <Number>35</Number>
+          <Number>24</Number>
           <Type>0</Type>
           <LineNumber>291</LineNumber>
           <EnabledFlag>0</EnabledFlag>
@@ -726,7 +550,7 @@
           <Expression></Expression>
         </Bp>
         <Bp>
-          <Number>36</Number>
+          <Number>25</Number>
           <Type>0</Type>
           <LineNumber>295</LineNumber>
           <EnabledFlag>0</EnabledFlag>
@@ -742,7 +566,7 @@
           <Expression></Expression>
         </Bp>
         <Bp>
-          <Number>37</Number>
+          <Number>26</Number>
           <Type>0</Type>
           <LineNumber>299</LineNumber>
           <EnabledFlag>0</EnabledFlag>
@@ -758,7 +582,7 @@
           <Expression></Expression>
         </Bp>
         <Bp>
-          <Number>38</Number>
+          <Number>27</Number>
           <Type>0</Type>
           <LineNumber>302</LineNumber>
           <EnabledFlag>0</EnabledFlag>
@@ -774,7 +598,7 @@
           <Expression></Expression>
         </Bp>
         <Bp>
-          <Number>39</Number>
+          <Number>28</Number>
           <Type>0</Type>
           <LineNumber>327</LineNumber>
           <EnabledFlag>0</EnabledFlag>
@@ -790,7 +614,7 @@
           <Expression></Expression>
         </Bp>
         <Bp>
-          <Number>40</Number>
+          <Number>29</Number>
           <Type>0</Type>
           <LineNumber>341</LineNumber>
           <EnabledFlag>0</EnabledFlag>
@@ -806,7 +630,7 @@
           <Expression></Expression>
         </Bp>
         <Bp>
-          <Number>41</Number>
+          <Number>30</Number>
           <Type>0</Type>
           <LineNumber>344</LineNumber>
           <EnabledFlag>0</EnabledFlag>
@@ -822,7 +646,7 @@
           <Expression></Expression>
         </Bp>
         <Bp>
-          <Number>42</Number>
+          <Number>31</Number>
           <Type>0</Type>
           <LineNumber>349</LineNumber>
           <EnabledFlag>0</EnabledFlag>
@@ -838,7 +662,7 @@
           <Expression></Expression>
         </Bp>
         <Bp>
-          <Number>43</Number>
+          <Number>32</Number>
           <Type>0</Type>
           <LineNumber>361</LineNumber>
           <EnabledFlag>0</EnabledFlag>
@@ -854,7 +678,7 @@
           <Expression></Expression>
         </Bp>
         <Bp>
-          <Number>44</Number>
+          <Number>33</Number>
           <Type>0</Type>
           <LineNumber>364</LineNumber>
           <EnabledFlag>0</EnabledFlag>
@@ -870,7 +694,7 @@
           <Expression></Expression>
         </Bp>
         <Bp>
-          <Number>45</Number>
+          <Number>34</Number>
           <Type>0</Type>
           <LineNumber>370</LineNumber>
           <EnabledFlag>0</EnabledFlag>
@@ -886,7 +710,7 @@
           <Expression></Expression>
         </Bp>
         <Bp>
-          <Number>46</Number>
+          <Number>35</Number>
           <Type>0</Type>
           <LineNumber>371</LineNumber>
           <EnabledFlag>0</EnabledFlag>
@@ -954,6 +778,28 @@
           <ItemText>buffer</ItemText>
         </Ww>
       </WatchWindow1>
+      <WatchWindow2>
+        <Ww>
+          <count>0</count>
+          <WinNumber>2</WinNumber>
+          <ItemText>fLine</ItemText>
+        </Ww>
+        <Ww>
+          <count>1</count>
+          <WinNumber>2</WinNumber>
+          <ItemText>errorCode</ItemText>
+        </Ww>
+        <Ww>
+          <count>2</count>
+          <WinNumber>2</WinNumber>
+          <ItemText>index</ItemText>
+        </Ww>
+        <Ww>
+          <count>3</count>
+          <WinNumber>2</WinNumber>
+          <ItemText>writeError</ItemText>
+        </Ww>
+      </WatchWindow2>
       <MemoryWindow1>
         <Mm>
           <WinNumber>1</WinNumber>
